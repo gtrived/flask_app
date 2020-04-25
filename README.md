@@ -1,4 +1,4 @@
-# web_app
+# Reddit Flare Detector 
  **Working**
 
 This repository is a reddit flare detction web application using flask and python.The user enters the url of the required post. The app takes the url, extracts various features from it (comments, authors, body .etc.) and tries to predict the flair using them by applying the finalized model.
@@ -18,7 +18,7 @@ This repository is a reddit flare detction web application using flask and pytho
 		Part_2_cont: It contains pre process and data cleaning required to perform PART_3
 		PART_3: Building a Flare Detector
 		
- 3.**Folder** : **web_deploy**
+ 3.**Folder** : **Web_app**
  
     It contains the work done in Step 2 using Flask.Application has an input field which expects a link 
     to a reddit post from ​r/india​ . On submission it predict the flare of the post.
