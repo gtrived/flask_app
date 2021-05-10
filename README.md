@@ -5,7 +5,6 @@ This repository is a reddit flair detction web application using flask and pytho
 
 Web application link : https://reddflair.herokuapp.com/
 
-**Experiment_log** : Documents everything that worked or failed. This document is a snapshot of the process I followed to solve each problem.
 
 **Steps required to create this web application**
 
